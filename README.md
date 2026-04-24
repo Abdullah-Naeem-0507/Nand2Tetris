@@ -4,7 +4,7 @@ Working through the Nand2Tetris course — building a fully
 functional computer from scratch, starting at the NAND gate level.
 
 ## Progress
-- [ ] Project 01 — Boolean Logic
+- [x] Project 01 — Boolean Logic
 - [ ] Project 02 — Boolean Arithmetic
 - [ ] Project 03 — Sequential Logic
 - [ ] Project 04 — Machine Language
