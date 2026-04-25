@@ -6,7 +6,7 @@ functional computer from scratch, starting at the NAND gate level.
 ## Progress
 - [x] Project 01 — Boolean Logic
 - [x] Project 02 — Boolean Arithmetic
-- [ ] Project 03 — Sequential Logic
+- [x] Project 03 — Sequential Logic
 - [ ] Project 04 — Machine Language
 - [ ] Project 05 — Computer Architecture
 - [ ] Project 06 — Assembler
